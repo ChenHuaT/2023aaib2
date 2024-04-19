@@ -10,5 +10,6 @@ int main()
 {
     int ans = myAdd(3,4);  ///函式呼叫
     printf("Hello ans: %d\n", ans);
-    myPrint(ans); ///函式呼叫(請他幫我做事情)
+    myPrint(7);
+    myPrint(6); ///函式呼叫(請他幫我做事情)
 }
